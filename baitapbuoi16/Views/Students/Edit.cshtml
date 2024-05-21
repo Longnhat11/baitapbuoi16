@@ -1,0 +1,33 @@
+﻿@model baitapbuoi16.DataAccess.DTO.ReturnDataReturnStudent
+
+<h2>Chỉnh sửa thông tin học sinh</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ReturnStudent.StudentID">
+    <div class="form-group">
+        <label for="StudentName">Tên:</label>
+        <input type="text" class="form-control" id="StudentName" name="StudentName" value="@Model.ReturnStudent.StudentName" required>
+    </div>
+    <div class="form-group">
+        <label for="StudentClass">Lớp:</label>
+        <input type="text" class="form-control" id="StudentClass" name="StudentClass" value="@Model.ReturnStudent.StudentClass" required>
+    </div>
+    <div class="form-group">
+        <label for="StudentGender">Giới tính:</label>
+        <input type="text" class="form-control" id="StudentGender" name="StudentGender" value="@Model.ReturnStudent.StudentGender" required>
+    </div>
+    <div class="form-group">
+        <label for="StudentAge">Tuổi:</label>
+        <input type="text" class="form-control" id="StudentAge" name="StudentAge" value="@Model.ReturnStudent.StudentAge" required>
+    </div>
+    <div class="form-group">
+        <label for="StudentID">ID:</label>
+        <input type="text" class="form-control" id="StudentID" name="StudentID" value="@Model.ReturnStudent.StudentID" required>
+    </div>
+    <div class="form-group">
+        <label for="StudentEmail">Email:</label>
+        <input type="text" class="form-control" id="StudentEmail" name="StudentEmail" value="@Model.ReturnStudent.StudentEmail" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+    <h2>@Model.ReturnMsg</h2>
+</form>

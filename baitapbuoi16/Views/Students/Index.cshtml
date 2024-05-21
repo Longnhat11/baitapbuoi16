@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Student>
+
+<h2>Danh sách học sinh</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>StudentId</th>
+            <th>StudentName</th>
+            <th>StudentAge</th>
+            <th>StudentGender</th>
+            <th>StudentClass</th>
+            <th>StudentEmail </th>
+            <!-- Thêm các cột khác nếu cần -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.StudentID</td>
+                <td>@student.StudentName</td>
+                <td>@student.StudentAge</td>
+                <td>@student.StudentGender</td>
+                <td>@student.StudentClass</td>
+                <td>@student.StudentEmail</td>
+                <!-- Thêm các cột khác nếu cần -->
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,18 @@
+﻿@model baitapbuoi16.DataAccess.DTO.ReturnDataReturnStudent
+
+<h2>Chi tiết học sinh</h2>
+<form asp-action="Details" method="get">
+    <div class="form-group">
+        <label for="Id">Nhập Id:</label>
+        <input type="text" class="form-control" id="Id" name="Id" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+</form>
+<h2>@Model.ReturnMsg</h2>
+<p>StudentID: @Model.ReturnStudent.StudentID</p>
+<p>StudentName: @Model.ReturnStudent.StudentName</p>
+<p>StudentAge: @Model.ReturnStudent.StudentAge</p>
+<p>StudentGender: @Model.ReturnStudent.StudentGender</p>
+<p>StudentClass: @Model.ReturnStudent.StudentClass</p>
+<p>StudentEmail: @Model.ReturnStudent.StudentEmail</p>
+

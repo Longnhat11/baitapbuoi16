@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\DBContext\\StudentDbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\DataAccess\\DBContext\\StudentDbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\DTO\\ReturnData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\DataAccess\\DTO\\ReturnData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Views\\Students\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Views\\Students\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\commonlib\\checkInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\commonlib\\checkInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\baitapbuoi16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\baitapbuoi16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Views\\Students\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\Services\\StudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\DataAccess\\Services\\StudentServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baitapbuoi16\\Views\\Students\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\DBContext\\StudentDbcontext.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\DataAccess\\DBContext\\StudentDbcontext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\DBContext\\StudentDbcontext.cs",
+              "RelativeToolTip": "baitapbuoi16\\DataAccess\\DBContext\\StudentDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:22:36.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\DTO\\ReturnData.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\DataAccess\\DTO\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\DTO\\ReturnData.cs",
+              "RelativeToolTip": "baitapbuoi16\\DataAccess\\DTO\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:22:32.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "baitapbuoi16\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:54:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "baitapbuoi16\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:03:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "baitapbuoi16\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:46:02.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "checkInput.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\commonlib\\checkInput.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\commonlib\\checkInput.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\commonlib\\checkInput.cs",
+              "RelativeToolTip": "baitapbuoi16\\commonlib\\checkInput.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:37:56.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "baitapbuoi16.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\baitapbuoi16.csproj",
+              "RelativeDocumentMoniker": "baitapbuoi16\\baitapbuoi16.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\baitapbuoi16.csproj",
+              "RelativeToolTip": "baitapbuoi16\\baitapbuoi16.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T22:34:43.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "baitapbuoi16\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:51:04.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "baitapbuoi16\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAE8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:49:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\DataAccess\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\DataAccess\\Services\\StudentServices.cs",
+              "RelativeToolTip": "baitapbuoi16\\DataAccess\\Services\\StudentServices.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:48:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "baitapbuoi16\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:48:28.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "baitapbuoi16\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:48:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Program.cs",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Program.cs",
+              "RelativeToolTip": "baitapbuoi16\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:46:45.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi16\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi16\\baitapbuoi16\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "baitapbuoi16\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:45:30.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
